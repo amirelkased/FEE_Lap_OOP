@@ -2,7 +2,7 @@ package Week_1;
 
 import java.util.Scanner;
 
-public class Project_2 {
+public class CombinationAndPermutation {
     static Scanner scanner = new Scanner(System.in);
     private static int n;
     private static int r;
@@ -17,11 +17,11 @@ public class Project_2 {
     }
 
     public static void setN() {
-        Project_2.n = scanner.nextInt();
+        CombinationAndPermutation.n = scanner.nextInt();
     }
 
     public static void setR() {
-        Project_2.r = scanner.nextInt();
+        CombinationAndPermutation.r = scanner.nextInt();
     }
 
     private static long calculate_nCr() {

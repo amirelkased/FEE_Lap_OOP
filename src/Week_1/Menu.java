@@ -4,9 +4,9 @@ public class Menu {
 
     public static void choiceProject(int projectNum) {
         if (projectNum == 1) {
-            Project_1.entryPoint();
+            IntToChar.entryPoint();
         } else {
-            Project_2.entryPoint();
+            CombinationAndPermutation.entryPoint();
         }
     }
 }
