@@ -1,6 +1,6 @@
 # FEE_Lap_OOP
 
-- [First Week](https://github.com/amirelkased/FEE_Lap_OOP/tree/main/out/production/FEE_Tasks/Week_1)
+- [First Week](https://github.com/amirelkased/FEE_Lap_OOP/tree/main/src/Week_1)
 
 ### Demo
 
