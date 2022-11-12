@@ -1,9 +1,7 @@
 # FEE_Lap_OOP
 
-- [First Week](https://github.com/amirelkased/FEE_Lap_OOP/tree/main/src/Week_1)
+---
 
-### Demo
-
-https://user-images.githubusercontent.com/95230844/197527091-af31fe1e-dc2f-4be1-be6d-015245db54be.mp4
-
-
+- [First Lap](https://github.com/amirelkased/FEE_Lap_OOP/tree/main/src/Week_1)
+- [Second Lap](https://github.com/amirelkased/FEE_Lap_OOP/tree/main/src/Week_2)
+- [Third Lap](https://github.com/amirelkased/FEE_Lap_OOP/tree/main/src/Week_3)
